@@ -28,3 +28,11 @@
 
 ## Conditional Rendering
     - rendering components based on conditions
+
+## useEffect Hook
+    - We know that any xyz thing can generate an side effect
+    - useEffect is a react hook that lets you synchronize a component with an external system
+
+## useContext Hook  
+    - useContext is a React Hook that lets you read and subscribe to context from your component
+    - const value = useContext(someContext)
